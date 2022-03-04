@@ -1,6 +1,6 @@
 ### Frontend Developer 💻
 
-### My Stack:
+#### My Stack:
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-232323?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-232323?style=flat-square&logo=react)
@@ -12,7 +12,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-232323?style=flat-square&logo=adobe-photoshop)
 
 
-Contact me: 
+#### Contact me: 
 [![Telegram](https://img.shields.io/badge/-Telegram-454545?style=flat-square&logo=telegram)](https://t.me/the_arthur_me)
 [![Instagram](https://img.shields.io/badge/-Instagram-454545?style=flat-square&logo=instagram)](https://www.instagram.com/the_arthur)
 [![Vk](https://img.shields.io/badge/-vk-454545?style=flat-square&logo=vk)](https://vk.com/aw_yea)
