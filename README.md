@@ -11,6 +11,12 @@
 ![Figma](https://img.shields.io/badge/-Figma-232323?style=flat-square&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-232323?style=flat-square&logo=adobe-photoshop)
 
+
+Contact me: 
+[![Telegram](https://img.shields.io/badge/-Telegram-454545?style=flat-square&logo=telegram)](https://t.me/the_arthur_me)
+[![Instagram](https://img.shields.io/badge/-Instagram-454545?style=flat-square&logo=instagram)](https://www.instagram.com/the_arthur)
+[![Vk](https://img.shields.io/badge/-vk-454545?style=flat-square&logo=vk)](https://vk.com/aw_yea)
+
 <!--
 **the-arthur/the-arthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
