@@ -4,6 +4,7 @@
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-232323?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-232323?style=flat-square&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=Vue.js&logoColor=fff)
 ![GIT](https://img.shields.io/badge/-Git-232323?style=flat-square&logo=git)
 ![vscode](https://img.shields.io/badge/-VSCode-232323?style=flat-square&logo=visualstudio)
 ![HTML](https://img.shields.io/badge/-HTML-232323?style=flat-square&logo=html5)
