@@ -18,6 +18,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-454545?style=flat-square&logo=instagram)](https://www.instagram.com/the_arthur)
 [![Vk](https://img.shields.io/badge/-vk-454545?style=flat-square&logo=vk)](https://vk.com/aw_yea)
 
+[![codewars](https://www.codewars.com/users/The_arthur/badges/large)](https://www.codewars.com/users/The_arthur)  
+
 <!--
 **the-arthur/the-arthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
